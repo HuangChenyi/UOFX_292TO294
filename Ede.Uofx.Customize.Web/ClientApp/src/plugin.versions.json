@@ -1,0 +1,11 @@
+{
+  "versions": [
+    {
+      "version": "1.0",
+      "minimumUOFXVersion": "2.94.0",
+      "changelog": [
+        "全新對話功能上線！"
+      ]
+    }
+  ]
+}
